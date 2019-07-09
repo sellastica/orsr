@@ -15,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Sellastica\\Project\\": "src/"
+			"Sellastica\\Orsr\\": "src/"
 		}
 	}
 }
